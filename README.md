@@ -76,7 +76,7 @@ Let's connect and explore how we can work together:
 - 📞 **Phone:** +254713048056
 - 📧 **Email:** [tsomielvis@gmail.com](mailto:tsomielvis@gmail.com)
 - 📧 **Alternate Email:** [elvis.muthomi@student.moringaschool.com](mailto:elvis.muthomi@student.moringaschool.com)
-- 💼 **LinkedIn:** [Elvis Muthomi](https://www.linkedin.com/in/elvis-muthomi) *(Replace with your actual LinkedIn profile)*
+- 💼 **LinkedIn:** [Elvis Muthomi, Student at Moringa School](https://www.linkedin.com/in/elvis-muthomi-056542313?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - 🐦 **Twitter:** [@tsomielvis](https://twitter.com/tsomielvis)
 
 ---
