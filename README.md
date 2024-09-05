@@ -1,85 +1,102 @@
-# 👋 Welcome to @tsomielvis’s Hub!
+# 👋 Welcome to @tsomielvis’s GitHub Profile!
 
-I'm a **Software Engineer** with a passion for building efficient, scalable, and innovative software solutions that push boundaries. If you're looking for someone who enjoys coding challenges and thrives on solving complex problems with cutting-edge technology, you're in the right place.
+I'm **Elvis Muthomi**, a passionate **Software Engineer** dedicated to creating cutting-edge solutions and pushing the boundaries of technology. My journey in tech has been driven by a relentless curiosity and a desire to solve complex problems.
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-- **Name:** Elvis 
-- **Profession:** Software Engineer & Tech Enthusiast
+- **Name:** Elvis Muthomi
+- **Profession:** Software Engineer
 - **Pronouns:** He/Him
-- **Location:** [Nairobi, Kenya 🌍]
-  
-Whether it’s optimizing backend performance, automating DevOps pipelines, or building intelligent AI-driven apps, I dive deep into every project, aiming for **perfection**.
+- **Location:** Nairobi, Kenya 🌍
+
+From building scalable systems to automating workflows, I thrive on challenges and love diving into new technologies to craft innovative solutions.
 
 ---
 
-### 💡 Interests & Focus Areas
+## 💡 Areas of Expertise
 
-I’m driven by a constant desire to learn and innovate. Here’s where I like to spend my time:
+I specialize in various aspects of software engineering, including:
 
-- **🌐 Web Development:** Designing robust, user-centric web applications.
-- **☁️ Cloud Computing:** Leveraging the power of AWS, Azure, and GCP to build scalable solutions.
-- **🤖 Artificial Intelligence:** Implementing AI and machine learning models that learn and adapt.
-- **🛠 DevOps Automation:** Automating everything, from deployments to monitoring, for increased efficiency.
-- **🔒 Security Best Practices:** Keeping software safe with encryption, authentication, and beyond.
-- **🗄 Distributed Systems:** Building fault-tolerant and scalable systems for real-time data processing.
-
----
-
-### ⚙️ My Toolbox
-
-Here’s a snapshot of the technologies that help me bring ideas to life:
-
-#### **Languages**
-- **Python**, **JavaScript**, **TypeScript**, **Go**, **C++**, **PHP**, **Bash**, **SQL**
-
-#### **Frameworks**
-- **Django**, **Flask**, **FastAPI**, **React**, **Node.js**, **Spring Boot**, **Angular**
-
-#### **DevOps & Tools**
-- **Docker**, **Kubernetes**, **Terraform**, **Jenkins**, **GitHub Actions**, **Ansible**
-- **CI/CD Pipelines**, **CloudFormation**, **Prometheus**, **Grafana**, **Kibana**
-
-#### **Cloud Providers**
-- **AWS**, **Azure**, **Google Cloud Platform**, **Firebase**
-
-#### **Databases**
-- **MySQL**, **PostgreSQL**, **MongoDB**, **Redis**, **Cassandra**, **DynamoDB**
-
-#### **Testing & Debugging**
-- **PyTest**, **Selenium**, **JUnit**, **Postman**, **Mocha**, **Chai**, **Jest**
+- **🌐 Web Development:** Crafting dynamic and robust web applications with modern frameworks.
+- **☁️ Cloud Computing:** Architecting and deploying applications on AWS, Azure, and GCP.
+- **🤖 Artificial Intelligence:** Developing intelligent systems with machine learning and AI.
+- **🛠 DevOps & Automation:** Streamlining development processes with CI/CD pipelines and infrastructure automation.
+- **🔒 Security Best Practices:** Ensuring software security with best practices and encryption.
 
 ---
 
-### 🔍 What I'm Looking to Collaborate On
+## 🛠 My Tech Stack
 
-I’m always open to new opportunities to build **game-changing** software. Here’s where I’d love to collaborate:
-- 🚀 Building open-source libraries and frameworks.
-- 🤖 AI and machine learning-powered applications.
-- 🛠 DevOps automation and infrastructure scaling.
-- 🌐 Real-time data processing for large-scale platforms.
-- 💻 Optimizing cloud-native systems for performance and reliability.
+Here's a snapshot of the technologies and tools that empower me:
+
+### **Languages**
+- **Python**, **JavaScript**, **TypeScript**, **Java**, **C++**, **Go**, **Bash**, **PHP**, **SQL**
+
+### **Frameworks**
+- **Django**, **Flask**, **FastAPI**, **React**, **Node.js**, **Express.js**, **Spring Boot**, **Angular**, **Next.js**
+
+### **DevOps & Tools**
+- **Docker**, **Kubernetes**, **Terraform**, **Jenkins**, **GitHub Actions**, **Ansible**, **CircleCI**, **Travis CI**
+- **Prometheus**, **Grafana**, **ELK Stack (Elasticsearch, Logstash, Kibana)**
+- **CloudFormation**, **Packer**, **Vagrant**
+
+### **Cloud Providers**
+- **AWS** (EC2, S3, Lambda, RDS, CloudFormation, ECS, Fargate)
+- **Azure** (VMs, Functions, Blob Storage, AKS, Azure DevOps)
+- **Google Cloud Platform** (Compute Engine, Cloud Functions, BigQuery, Cloud Run)
+- **Firebase** (Authentication, Firestore, Cloud Functions)
+
+### **Databases**
+- **MySQL**, **PostgreSQL**, **MongoDB**, **Redis**, **Cassandra**, **DynamoDB**, **Firebase Realtime Database**, **Elasticsearch**
+
+### **Testing & Debugging**
+- **PyTest**, **Selenium**, **JUnit**, **TestNG**, **Postman**, **Mocha**, **Chai**, **Jest**, **Cypress**, **Enzyme**, **Robot Framework**
 
 ---
 
-### 💬 Let’s Connect
+## 🔍 Collaboration Opportunities
 
-If you’re excited about building the future with tech, feel free to reach out!
+I'm eager to collaborate on projects that involve:
 
-- 📞 **Phone:** +254713048056  
+- **Open-Source Contributions:** Developing libraries, frameworks, and tools that benefit the community.
+- **AI & Machine Learning:** Implementing sophisticated models and algorithms for real-world applications.
+- **Distributed Systems:** Designing and scaling systems that handle large volumes of data and traffic.
+- **DevOps & Infrastructure:** Automating deployment and monitoring processes for efficiency and reliability.
+- **Real-Time Data Processing:** Building systems for real-time analytics and data integration.
+- **Cloud-Native Solutions:** Optimizing cloud infrastructure and exploring serverless architectures.
+
+---
+
+## 📫 Get in Touch
+
+Let's connect and explore how we can work together:
+
+- 📞 **Phone:** +254713048056
 - 📧 **Email:** [tsomielvis@gmail.com](mailto:tsomielvis@gmail.com)
+- 📧 **Alternate Email:** [elvis.muthomi@student.moringaschool.com](mailto:elvis.muthomi@student.moringaschool.com)
+- 💼 **LinkedIn:** [Elvis Muthomi](https://www.linkedin.com/in/elvis-muthomi) *(Replace with your actual LinkedIn profile)*
+- 🐦 **Twitter:** [@tsomielvis](https://twitter.com/tsomielvis)
 
 ---
 
-### ⚡ Fun Facts About Me
+## ⚡ Fun Facts
 
-- I **debug for fun**—seriously, there's no better satisfaction than squashing that elusive bug.
-- I’ve participated in **hackathons** and love the adrenaline rush of solving problems under pressure.
-- When I’m not coding, you’ll find me either experimenting with **3D graphics** or diving into the latest **AI trends**.
-- I'm also a **gamer** and love exploring how artificial intelligence shapes the gaming industry.
+- **Code Optimization Enthusiast:** I find joy in improving code performance and efficiency.
+- **Hackathon Veteran:** Thriving in high-pressure environments with quick problem-solving.
+- **Gaming Geek:** Exploring game engines and AI in gaming is one of my hobbies.
+- **Tech Speaker:** I enjoy sharing knowledge through tech talks and blog posts on emerging trends.
 
 ---
 
-Let’s create something **remarkable** together! 🚀
+## 🏆 Achievements & Contributions
+
+- **Featured Projects:** [Link to notable projects](https://github.com/tsomielvis?tab=repositories) *(Add links to your standout projects)*
+- **Open-Source Contributions:** Contributed to [specific open-source projects](https://github.com/tsomielvis?tab=contributions) *(Highlight any notable contributions)*
+- **Certifications:** [AWS Certified Solutions Architect](https://www.example.com) *(Add any relevant certifications)*
+- **Publications:** [Articles & Papers](https://medium.com/@yourprofile) *(Link to any published articles or papers)*
+
+---
+
+Let's create something **extraordinary** together! 🚀
