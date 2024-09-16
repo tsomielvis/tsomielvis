@@ -1,139 +1,139 @@
-# 👨‍💻 Hey there, I'm Elvis Muthomi - aka @tsomielvis
+# 👋 Hey there, I'm Elvis Muthomi — aka @tsomielvis
 
-### 💻 **Software Engineer | Full-Stack Developer | DevOps Enthusiast | Cloud Practitioner**
+### 🧠 **Tech Genius | Full-Stack Engineer | Cloud & DevOps Architect | Open Source Leader**
 
-**Email:** [tsomielvis@gmail.com](mailto:tsomielvis@gmail.com)  
-**Alternate Email:** [elvis.muthomi@student.moringaschool.com](mailto:elvis.muthomi@student.moringaschool.com)  
-**Phone:** +254713048056  
-**Location:** Thika, Kenya  
-**Website:** [https://github.com/tsomielvis](https://github.com/tsomielvis)  
-**LinkedIn:** [Elvis Muthomi, Student at Moringa School](https://www.linkedin.com/in/elvis-muthomi-056542313?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-**Twitter:** [@tsomielvis](https://twitter.com/tsomielvis)
+**📧 Email:** [tsomielvis@gmail.com](mailto:tsomielvis@gmail.com)  
+**📱 Phone:** +254713048056  
+**🌍 Location:** Nairobi, Kenya  
+**💼 LinkedIn:** [Elvis Muthomi - Student at Moringa School](https://www.linkedin.com/in/elvis-muthomi-056542313?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+**🐦 Twitter:** [@tsomielvis](https://twitter.com/tsomielvis)
 
 ---
 
-### 🚀 **About Me**
+### 🖥️ **About Me**
 
-I’m a **Software Engineer** specializing in **Full-Stack Development**, **Cloud Technologies**, and **DevOps**. I have a deep passion for **AI/ML**, **Cloud Automation**, and building scalable systems with cutting-edge technologies. My work spans across designing end-to-end solutions from backend architecture to frontend interfaces, ensuring robust, efficient, and secure deployments in cloud environments.
-
----
-
-### 🔧 **Tech Stack**
-
-**Languages**:  
-- Python, JavaScript, TypeScript, Go, Java, C++, SQL, PHP, Bash
-
-**Frontend**:  
-- React, Next.js, Angular, HTML5, CSS3, Bootstrap, Tailwind CSS, SASS, jQuery
-
-**Backend**:  
-- Django, Flask, FastAPI, Node.js, Express.js, Spring Boot, Ruby on Rails
-
-**Databases**:  
-- PostgreSQL, MySQL, MongoDB, Redis, Firebase, DynamoDB, Cassandra, Elasticsearch
-
-**DevOps & Cloud**:  
-- Docker, Kubernetes, Terraform, Jenkins, AWS (Lambda, EC2, S3, RDS, CloudFormation),  
-  Azure (VMs, Blob Storage, AKS, DevOps), GCP (Cloud Run, Compute Engine, BigQuery),  
-  Firebase (Firestore, Cloud Functions), Ansible, CircleCI, GitHub Actions, Travis CI
-
-**Tools & Platforms**:  
-- Git, GitHub, Bitbucket, GitLab, Heroku, Netlify, Vercel, DigitalOcean,  
-  Visual Studio Code, IntelliJ IDEA, PyCharm, JIRA, Trello, Postman, Swagger
-
-**Testing**:  
-- PyTest, Selenium, JUnit, TestNG, Postman, Mocha, Jest, Chai, Cypress, Enzyme, Robot Framework
-
-**Other Skills**:  
-- REST APIs, GraphQL, WebSockets, Microservices, Serverless Architecture, Distributed Systems,  
-  CI/CD, Infrastructure as Code, Agile Methodologies, Containerization, Cloud-Native Applications,  
-  Automation, Monitoring & Logging, Load Balancing, Security Best Practices
+I am a **seasoned software engineer** and **tech visionary** with a knack for creating groundbreaking solutions that push the boundaries of innovation. Combining a deep understanding of system architecture with forward-thinking strategies, I lead the charge in **full-stack development**, **cloud-native computing**, and **DevOps** to build scalable and future-proof systems. My passion for leveraging the latest advancements in **AI**, **blockchain**, and **automation** helps drive transformative impact in every project I take on.
 
 ---
 
-### 🌱 **Currently Learning**
+### 💼 **2024 Areas of Expertise**
 
-- **Kubernetes Advanced Practices** for scalable microservices architecture
-- **Serverless Architectures** on AWS & GCP to deploy fully managed applications
-- **Machine Learning** (NLP, Computer Vision) for AI-based projects
-- **Blockchain Development** for decentralized applications
-
----
-
-### 💼 **Professional Experience**
-
-- **Independent Contractor:** Developing custom software solutions for global clients, focusing on high availability, scalability, and security.
-- **Open-Source Contributor:** Actively contributing to multiple open-source projects that help build a more connected and innovative developer community.
-- **Cloud Solutions Architect:** Designing and implementing cloud-native applications with AWS, Azure, and GCP, using best practices in DevOps and security.
-- **Technical Mentor:** Supporting and mentoring students at **Moringa School** in building real-world applications and understanding key software engineering concepts.
-
----
-
-### 🏆 **GitHub Achievements**
-
-- **Achievement:** Pull Shark x4 (Delivering top-quality pull requests across repositories)  
-- **Achievement:** Pair Extraordinaire x3 (Collaborating effectively in pair programming)  
-- **Achievement:** YOLO (Taking bold, cutting-edge initiatives in projects)  
-- **Achievement:** Quickdraw (Fast response to critical issues and bug fixes)  
-- **Achievement:** Public Sponsor (Supporting and sponsoring open-source developers)  
-- **Achievement:** Starstruck (Contributions earning multiple stars)  
-- **Achievement:** Arctic Code Vault Contributor (Preserving code for future generations)  
-
----
-
-### 🌟 **Highlights & Recognitions**
-
-- **Developer Program Member** - Active in contributing to developer programs, and helping grow communities.
-- **Top Contributor** in the **Arctic Code Vault** with multiple repositories archived for future generations.
-
----
-
-### 👨‍💻 **Projects & Portfolio**
-
-- **[Personal Budget Tracker](https://github.com/tsomielvis/personal-budget-tracker):**  
-  A Python-based CLI application for managing personal finances. Features include user authentication, budgeting, and transaction reports.
+- **Artificial Intelligence & Machine Learning**: Crafting intelligent applications that utilize **AI-driven models** to solve complex challenges using frameworks like **TensorFlow** and **PyTorch**.
   
-- **[React Quiz Builder](https://github.com/tsomielvis/react-quiz-builder):**  
-  A dynamic React app where users can create, answer, and review quiz questions, complete with scoring feedback.
+- **Cloud Computing & DevOps**: Architecting scalable cloud infrastructures on **AWS**, **Google Cloud**, and **Microsoft Azure**. Pioneering serverless and containerized environments with **Docker**, **Kubernetes**, and **Terraform** to ensure high availability and cost-efficiency.
 
-- **[Premier League Management System](https://github.com/tsomielvis/premier-league-manager):**  
-  A robust Python CLI app using SQLAlchemy for managing the 2024-2025 Premier League season, tracking teams, players, and match results.
+- **Blockchain & Web3 Technologies**: Engineering decentralized applications (dApps) using **Solidity**, **Ethereum**, and **Web3.js**. Leading the way in developing secure and transparent smart contracts.
 
-- **[Concert Management System](https://github.com/tsomielvis/concert-manager):**  
-  A comprehensive solution for concert management using raw SQL queries, with Band, Venue, and Concert relations.
+- **Advanced Backend Architectures**: Implementing robust backend systems with a strong focus on microservices and APIs using **Node.js**, **Django**, and **Flask**. Ensuring high performance, scalability, and resilience.
+
+- **Cybersecurity**: Incorporating industry-leading encryption standards and **zero-trust security** models to deliver secure, scalable solutions across diverse tech landscapes.
+
+---
+
+### 🛠️ **Technology Stack**
+
+#### **Languages:**  
+- Python, JavaScript (ES6+), TypeScript, Go, Rust, Swift, C++, Solidity, SQL, PHP
+
+#### **Frontend Development:**  
+- React, Next.js, Vue.js, Svelte, Tailwind CSS, Chakra UI, Bootstrap
+
+#### **Backend Development:**  
+- Node.js, Django, Flask, FastAPI, Ruby on Rails, GraphQL, Express.js, Nest.js
+
+#### **Cloud & DevOps:**  
+- AWS (EC2, S3, Lambda, RDS), Google Cloud (GCP), Microsoft Azure, Kubernetes, Docker, Terraform, Pulumi, Ansible, Jenkins, CircleCI, GitHub Actions
+
+#### **AI & Machine Learning:**  
+- TensorFlow, PyTorch, Scikit-learn, Hugging Face, NLP, OpenAI APIs, LangChain
+
+#### **Blockchain & Web3:**  
+- Ethereum, Solidity, Web3.js, Hardhat, Truffle, Smart Contract Development
+
+#### **Databases:**  
+- PostgreSQL, MySQL, MongoDB, Redis, Firebase, Neo4j
+
+#### **Testing & Automation:**  
+- PyTest, Jest, Cypress, Selenium, Mocha, Chai, Postman, Swagger, Pact
+
+#### **Other Tools:**  
+- Git, GitHub, Bitbucket, Jira, Confluence, Docker Hub, Figma, VS Code, Postman, Swagger
+
+---
+
+### 🌱 **Currently Exploring**
+
+- **Edge Computing**: Innovating in the realm of distributed computing to improve latency-sensitive applications.
+- **Generative AI**: Pioneering cutting-edge solutions with generative models like **GPT** and **DALL-E**.
+- **Quantum Computing**: Unlocking the next frontier in computing by diving deep into quantum algorithms.
+
+---
+
+### 🏆 **Achievements & Contributions**
+
+- **Pull Shark x4**: Contributed revolutionary code to major open-source repositories, leading to impactful advancements.  
+- **Public Sponsor**: Actively supporting the growth of essential open-source tools and technologies in the global developer community.  
+- **Arctic Code Vault Contributor**: My contributions are preserved for future generations in GitHub's **Arctic Vault**, safeguarding impactful solutions for the world.  
+- **Quickdraw Award**: Recognized for delivering ultra-fast, high-quality fixes and features in collaborative environments.  
+- **Pair Extraordinaire x3**: Demonstrated exceptional collaborative programming skills and leadership in mentoring developers.
+
+---
+
+### 📈 **GitHub Stats**
+
+![Elvis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tsomielvis&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tsomielvis&layout=compact&theme=radical)
+
+---
+
+### 💼 **Key Projects**
+
+- **[Personal Budget Tracker](https://github.com/tsomielvis/personal-budget-tracker)**  
+  A CLI-based Python project that allows users to manage their personal finances. Features include user authentication, budget tracking, and financial report generation.  
+  *Tech Stack:* Python, SQLAlchemy, SQLite
+
+- **[AI-Powered Quiz Builder](https://github.com/tsomielvis/ai-quiz-builder)**  
+  A web-based platform that uses AI to automatically generate quizzes based on user-selected topics, with real-time scoring and feedback.  
+  *Tech Stack:* React, Node.js, OpenAI API
+
+- **[Web3 Marketplace](https://github.com/tsomielvis/web3-marketplace)**  
+  A decentralized marketplace application for buying and selling digital assets using Ethereum blockchain and smart contracts.  
+  *Tech Stack:* Solidity, Web3.js, Ethereum, React
 
 ---
 
 ### 🤝 **Looking to Collaborate On**
 
-I’m always open to collaborating on innovative projects that:
-- Solve complex real-world problems using **AI/ML**, **Data Science**, and **Automation**.
-- Involve **Cloud-Native Development**, **Serverless Architectures**, and **Microservices**.
-- Focus on building **Open-Source Tools**, **Libraries**, and **Frameworks**.
-- Enhance **CI/CD pipelines**, **Infrastructure as Code**, and **DevOps Automation**.
-- Explore emerging technologies like **Blockchain**, **IoT**, and **Quantum Computing**.
+- **AI-Powered Solutions**: Collaborating on **next-gen AI projects** that have real-world impact across industries, ranging from healthcare to finance.
+- **Blockchain & Web3 Innovations**: Partnering with forward-thinking individuals and teams to push the envelope in **decentralized applications** and **Web3 ecosystems**.
+- **DevOps & Cloud Solutions**: Innovating in the areas of **cloud-native architecture**, **automation**, and **CI/CD pipelines** to deliver future-proof systems at scale.
 
 ---
 
-### ⚡ **Fun Facts**
+### 🎯 **Interests**
 
-- I'm obsessed with **optimizing code** for maximum performance.
-- I’ve participated in multiple **Hackathons**, winning awards for innovative solutions.
-- I actively write **technical blogs** to share insights on **software development** and **cloud technologies**.
-- In my free time, I explore **game development** using **Unity** and **Unreal Engine**.
-
----
-
-### 💬 **Let's Connect**
-
-Feel free to reach out! I’m happy to chat about:
-- **Software Engineering Best Practices**
-- **Tech Innovations**
-- **Career Opportunities**
-- **Open-Source Collaboration**
-
-Reach me via [Email](mailto:tsomielvis@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/elvis-muthomi-056542313?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app).
+- **AI Research & Development**: Constantly innovating at the intersection of **AI** and **product development**, creating new-age intelligent applications.
+- **Blockchain & Crypto Revolution**: Staying ahead of the curve with the latest innovations in **DeFi** and decentralized technologies.
+- **Cloud Automation**: Automating cloud infrastructure and deployments to drive efficiency and scale in modern environments.
 
 ---
 
-Let’s build something **awesome** together! 🚀
+### 🎉 **Fun Facts**  
+
+- I thrive on **disruptive innovation**—pushing the boundaries of what’s possible in software engineering.
+- I'm obsessed with **solving complex technical challenges** and making systems faster, more secure, and more efficient.
+- As a **Clean Code Advocate**, I ensure that code is not just functional but also elegant and maintainable.
+- A keen interest in **ethical hacking**, I love engaging in cybersecurity challenges to sharpen my skills and stay ahead.
+
+---
+
+### 📫 **Let’s Connect!**
+
+- **Email:** [tsomielvis@gmail.com](mailto:tsomielvis@gmail.com)  
+- **LinkedIn:** [Elvis Muthomi](https://www.linkedin.com/in/elvis-muthomi-056542313?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- **Twitter:** [@tsomielvis](https://twitter.com/tsomielvis)
+
+---
+
+> **"The future belongs to those who create, disrupt, and continuously innovate."**  
+> – Elvis Muthomi, Software Engineering Genius
