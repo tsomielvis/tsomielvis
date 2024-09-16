@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Elvis Muthomi — aka @tsomielvis
+# 👋 Hey there, I'm Elvis Muthomi — aka [@tsomielvis](https://github.com/tsomielvis)
 
 ### 🧠 **Tech Genius | Full-Stack Engineer | Cloud & DevOps Architect | Open Source Leader**
 
@@ -18,54 +18,54 @@ I am a **seasoned software engineer** and **tech visionary** with a knack for cr
 
 ### 💼 **2024 Areas of Expertise**
 
-- **Artificial Intelligence & Machine Learning**: Crafting intelligent applications that utilize **AI-driven models** to solve complex challenges using frameworks like **TensorFlow** and **PyTorch**.
+- **Artificial Intelligence & Machine Learning**: Crafting intelligent applications that utilize **AI-driven models** to solve complex challenges using frameworks like **TensorFlow**, **PyTorch**, **Hugging Face**, **Scikit-learn**, **OpenAI APIs**, and **LangChain**. Expert in deploying **NLP**, **Computer Vision**, and **Generative Models** for real-world applications.
   
-- **Cloud Computing & DevOps**: Architecting scalable cloud infrastructures on **AWS**, **Google Cloud**, and **Microsoft Azure**. Pioneering serverless and containerized environments with **Docker**, **Kubernetes**, and **Terraform** to ensure high availability and cost-efficiency.
+- **Cloud Computing & DevOps**: Architecting scalable cloud infrastructures on **AWS**, **Google Cloud**, and **Microsoft Azure**. Pioneering serverless and containerized environments with **Docker**, **Kubernetes**, and **Terraform** to ensure high availability and cost-efficiency. Mastery in **CI/CD** pipelines using **GitHub Actions**, **Jenkins**, **CircleCI**, and **Bitbucket Pipelines**.
 
-- **Blockchain & Web3 Technologies**: Engineering decentralized applications (dApps) using **Solidity**, **Ethereum**, and **Web3.js**. Leading the way in developing secure and transparent smart contracts.
+- **Blockchain & Web3 Technologies**: Engineering decentralized applications (dApps) using **Solidity**, **Ethereum**, **Polkadot**, **Web3.js**, and **Rust**. Leading the way in developing secure and transparent smart contracts, and working on **DeFi** and **NFT** projects. Expertise in **Hardhat**, **Truffle**, and **Smart Contract Auditing**.
 
-- **Advanced Backend Architectures**: Implementing robust backend systems with a strong focus on microservices and APIs using **Node.js**, **Django**, and **Flask**. Ensuring high performance, scalability, and resilience.
+- **Advanced Backend Architectures**: Implementing robust backend systems with a strong focus on microservices and APIs using **Node.js**, **Django**, **Flask**, **FastAPI**, **Spring Boot**, and **Ruby on Rails**. Ensuring high performance, scalability, and resilience.
 
-- **Cybersecurity**: Incorporating industry-leading encryption standards and **zero-trust security** models to deliver secure, scalable solutions across diverse tech landscapes.
+- **Cybersecurity**: Incorporating industry-leading encryption standards and **zero-trust security** models to deliver secure, scalable solutions across diverse tech landscapes. Experienced in **ethical hacking**, **penetration testing**, **Vulnerability Assessment**, and **Security Information and Event Management (SIEM)**.
 
 ---
 
 ### 🛠️ **Technology Stack**
 
 #### **Languages:**  
-- Python, JavaScript (ES6+), TypeScript, Go, Rust, Swift, C++, Solidity, SQL, PHP
+- Python, JavaScript (ES6+), TypeScript, Go, Rust, Swift, C++, Solidity, SQL, PHP, Ruby, Dart, R, Julia
 
 #### **Frontend Development:**  
-- React, Next.js, Vue.js, Svelte, Tailwind CSS, Chakra UI, Bootstrap
+- React, Next.js, Vue.js, Svelte, Angular, Tailwind CSS, Chakra UI, Bootstrap, Three.js, D3.js
 
 #### **Backend Development:**  
-- Node.js, Django, Flask, FastAPI, Ruby on Rails, GraphQL, Express.js, Nest.js
+- Node.js, Django, Flask, FastAPI, Ruby on Rails, Spring Boot, GraphQL, Express.js, Nest.js, Laravel
 
 #### **Cloud & DevOps:**  
-- AWS (EC2, S3, Lambda, RDS), Google Cloud (GCP), Microsoft Azure, Kubernetes, Docker, Terraform, Pulumi, Ansible, Jenkins, CircleCI, GitHub Actions
+- AWS (EC2, S3, Lambda, RDS, DynamoDB, CloudFormation), Google Cloud (GCP), Microsoft Azure, Kubernetes, Docker, Terraform, Pulumi, Ansible, Jenkins, CircleCI, GitHub Actions, Bitbucket Pipelines
 
 #### **AI & Machine Learning:**  
-- TensorFlow, PyTorch, Scikit-learn, Hugging Face, NLP, OpenAI APIs, LangChain
+- TensorFlow, PyTorch, Scikit-learn, Hugging Face, OpenAI APIs, LangChain, NLP, Computer Vision, Generative Models, Keras, XGBoost
 
 #### **Blockchain & Web3:**  
-- Ethereum, Solidity, Web3.js, Hardhat, Truffle, Smart Contract Development
+- Ethereum, Solidity, Web3.js, Hardhat, Truffle, Polkadot, Rust, Smart Contract Development, dApp Development, Chainlink, IPFS
 
 #### **Databases:**  
-- PostgreSQL, MySQL, MongoDB, Redis, Firebase, Neo4j
+- PostgreSQL, MySQL, MongoDB, Redis, Firebase, Neo4j, Cassandra, Elasticsearch, CouchDB, SQLite
 
 #### **Testing & Automation:**  
-- PyTest, Jest, Cypress, Selenium, Mocha, Chai, Postman, Swagger, Pact
+- PyTest, Jest, Cypress, Selenium, Mocha, Chai, Postman, Swagger, Pact, TestCafe, Selenium, JMeter
 
 #### **Other Tools:**  
-- Git, GitHub, Bitbucket, Jira, Confluence, Docker Hub, Figma, VS Code, Postman, Swagger
+- Git, GitHub, Bitbucket, Jira, Confluence, Docker Hub, Figma, VS Code, Postman, Swagger, Grafana, Prometheus, Kibana
 
 ---
 
 ### 🌱 **Currently Exploring**
 
 - **Edge Computing**: Innovating in the realm of distributed computing to improve latency-sensitive applications.
-- **Generative AI**: Pioneering cutting-edge solutions with generative models like **GPT** and **DALL-E**.
-- **Quantum Computing**: Unlocking the next frontier in computing by diving deep into quantum algorithms.
+- **Generative AI**: Pioneering cutting-edge solutions with generative models like **GPT-4**, **DALL-E**, and **Deep Learning Models**.
+- **Quantum Computing**: Unlocking the next frontier in computing by diving deep into quantum algorithms and exploring practical applications with **IBM Qiskit**, **Google Quantum AI**, and **Microsoft Quantum Development Kit**.
 
 ---
 
@@ -76,13 +76,17 @@ I am a **seasoned software engineer** and **tech visionary** with a knack for cr
 - **Arctic Code Vault Contributor**: My contributions are preserved for future generations in GitHub's **Arctic Vault**, safeguarding impactful solutions for the world.  
 - **Quickdraw Award**: Recognized for delivering ultra-fast, high-quality fixes and features in collaborative environments.  
 - **Pair Extraordinaire x3**: Demonstrated exceptional collaborative programming skills and leadership in mentoring developers.
+- **Blockchain Innovator**: Developed cutting-edge decentralized applications (dApps) that leverage blockchain technology for various use cases.
+- **Cloud Architect**: Architected complex cloud solutions, optimizing cost and performance for large-scale applications.
+- **Cybersecurity Specialist**: Advanced skills in ethical hacking, vulnerability assessment, and implementing zero-trust security models.
 
 ---
 
 ### 📈 **GitHub Stats**
 
-![Elvis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tsomielvis&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tsomielvis&layout=compact&theme=radical)
+![Elvis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tsomielvis&show_icons=true&theme=radical&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tsomielvis&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tsomielvis&theme=radical)
 
 ---
 
@@ -106,7 +110,8 @@ I am a **seasoned software engineer** and **tech visionary** with a knack for cr
 
 - **AI-Powered Solutions**: Collaborating on **next-gen AI projects** that have real-world impact across industries, ranging from healthcare to finance.
 - **Blockchain & Web3 Innovations**: Partnering with forward-thinking individuals and teams to push the envelope in **decentralized applications** and **Web3 ecosystems**.
-- **DevOps & Cloud Solutions**: Innovating in the areas of **cloud-native architecture**, **automation**, and **CI/CD pipelines** to deliver future-proof systems at scale.
+- **Cloud Solutions & DevOps**: Innovating in the areas of **cloud-native architecture**, **automation**, and **CI/CD pipelines** to deliver future-proof systems at scale.
+- **Cutting-edge Research**: Engaging in **research and development** in emerging tech fields such as **quantum computing**, **edge computing**, and **generative AI**.
 
 ---
 
@@ -118,7 +123,7 @@ I am a **seasoned software engineer** and **tech visionary** with a knack for cr
 
 ---
 
-### 🎉 **Fun Facts**  
+### 🎉 **Fun Facts**
 
 - I thrive on **disruptive innovation**—pushing the boundaries of what’s possible in software engineering.
 - I'm obsessed with **solving complex technical challenges** and making systems faster, more secure, and more efficient.
