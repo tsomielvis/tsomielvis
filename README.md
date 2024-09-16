@@ -1,102 +1,66 @@
-# 👋 Welcome to @tsomielvis’s GitHub Profile!
+# Elvis Muthomi - aka @tsomielvis 👨‍💻
 
-I'm **Elvis Muthomi**, a passionate **Software Engineer** dedicated to creating cutting-edge solutions and pushing the boundaries of technology. My journey in tech has been driven by a relentless curiosity and a desire to solve complex problems.
-
----
-
-## 🚀 About Me
-
-- **Name:** Elvis Muthomi
-- **Profession:** Software Engineer
-- **Pronouns:** He/Him
-- **Location:** Nairobi, Kenya 🌍
-
-From building scalable systems to automating workflows, I thrive on challenges and love diving into new technologies to craft innovative solutions.
+**Software Engineer | Full-Stack Developer | Cloud Enthusiast**  
+Specializing in **Python**, **JavaScript**, **TypeScript**, and **Cloud Technologies**  
+Email: [tsomielvis@gmail.com](mailto:tsomielvis@gmail.com) | [elvis.muthomi@student.moringaschool.com](mailto:elvis.muthomi@student.moringaschool.com)
 
 ---
 
-## 💡 Areas of Expertise
-
-I specialize in various aspects of software engineering, including:
-
-- **🌐 Web Development:** Crafting dynamic and robust web applications with modern frameworks.
-- **☁️ Cloud Computing:** Architecting and deploying applications on AWS, Azure, and GCP.
-- **🤖 Artificial Intelligence:** Developing intelligent systems with machine learning and AI.
-- **🛠 DevOps & Automation:** Streamlining development processes with CI/CD pipelines and infrastructure automation.
-- **🔒 Security Best Practices:** Ensuring software security with best practices and encryption.
+📍 **Location:** Thika, Kenya  
+📱 **Phone:** +254713048056  
+🌐 **Website:** [https://github.com/tsomielvis](https://github.com/tsomielvis)  
+🐦 **Twitter:** [@tsomielvis](https://twitter.com/tsomielvis)  
+💼 **LinkedIn:** [Elvis Muthomi, Student at Moringa School](https://www.linkedin.com/in/elvis-muthomi-056542313?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
-## 🛠 My Tech Stack
+### 🚀 **About Me:**
+I'm a passionate **Software Engineer** with a focus on delivering scalable and high-performance applications. Proficient in **Full-Stack Development** and **DevOps** practices, I have a keen interest in **AI/ML**, **Cloud Computing**, and **Systems Automation**. My goal is to build impactful solutions that drive efficiency and innovation.
 
-Here's a snapshot of the technologies and tools that empower me:
-
-### **Languages**
-- **Python**, **JavaScript**, **TypeScript**, **Java**, **C++**, **Go**, **Bash**, **PHP**, **SQL**
-
-### **Frameworks**
-- **Django**, **Flask**, **FastAPI**, **React**, **Node.js**, **Express.js**, **Spring Boot**, **Angular**, **Next.js**
-
-### **DevOps & Tools**
-- **Docker**, **Kubernetes**, **Terraform**, **Jenkins**, **GitHub Actions**, **Ansible**, **CircleCI**, **Travis CI**
-- **Prometheus**, **Grafana**, **ELK Stack (Elasticsearch, Logstash, Kibana)**
-- **CloudFormation**, **Packer**, **Vagrant**
-
-### **Cloud Providers**
-- **AWS** (EC2, S3, Lambda, RDS, CloudFormation, ECS, Fargate)
-- **Azure** (VMs, Functions, Blob Storage, AKS, Azure DevOps)
-- **Google Cloud Platform** (Compute Engine, Cloud Functions, BigQuery, Cloud Run)
-- **Firebase** (Authentication, Firestore, Cloud Functions)
-
-### **Databases**
-- **MySQL**, **PostgreSQL**, **MongoDB**, **Redis**, **Cassandra**, **DynamoDB**, **Firebase Realtime Database**, **Elasticsearch**
-
-### **Testing & Debugging**
-- **PyTest**, **Selenium**, **JUnit**, **TestNG**, **Postman**, **Mocha**, **Chai**, **Jest**, **Cypress**, **Enzyme**, **Robot Framework**
+### 💼 **Professional Highlights:**
+- **Independent Contractor** - Delivering custom software solutions for clients globally.
+- **Experienced with Frameworks:** Django, Flask, React, Node.js, Express.js, and FastAPI.
+- **Cloud Expertise:** AWS (Certified Solutions Architect), Azure, and GCP.
+- **Specializations:** Distributed systems, Cloud-Native applications, and Serverless architectures.
 
 ---
 
-## 🔍 Collaboration Opportunities
-
-I'm eager to collaborate on projects that involve:
-
-- **Open-Source Contributions:** Developing libraries, frameworks, and tools that benefit the community.
-- **AI & Machine Learning:** Implementing sophisticated models and algorithms for real-world applications.
-- **Distributed Systems:** Designing and scaling systems that handle large volumes of data and traffic.
-- **DevOps & Infrastructure:** Automating deployment and monitoring processes for efficiency and reliability.
-- **Real-Time Data Processing:** Building systems for real-time analytics and data integration.
-- **Cloud-Native Solutions:** Optimizing cloud infrastructure and exploring serverless architectures.
+### 🔥 **GitHub Achievements:**
+- **Achievement:** Pull Shark x4 (Consistently contributing top-tier code across repositories)
+- **Achievement:** Pair Extraordinaire x3 (Outstanding teamwork and collaboration)
+- **Achievement:** YOLO (Taking bold initiatives to explore cutting-edge technology)
+- **Achievement:** Quickdraw (Swift problem solving and quick bug fixes)
+- **Achievement:** Public Sponsor (Supporting open-source development)
+- **Achievement:** Starstruck (Earning stars on several noteworthy projects)
+- **Achievement:** Arctic Code Vault Contributor (Preserving code for future generations)
 
 ---
 
-## 📫 Get in Touch
-
-Let's connect and explore how we can work together:
-
-- 📞 **Phone:** +254713048056
-- 📧 **Email:** [tsomielvis@gmail.com](mailto:tsomielvis@gmail.com)
-- 📧 **Alternate Email:** [elvis.muthomi@student.moringaschool.com](mailto:elvis.muthomi@student.moringaschool.com)
-- 💼 **LinkedIn:** [Elvis Muthomi, Student at Moringa School](https://www.linkedin.com/in/elvis-muthomi-056542313?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- 🐦 **Twitter:** [@tsomielvis](https://twitter.com/tsomielvis)
+### 🏆 **Developer Program Member & Organizations:**
+- Member of **@beyode**, a collaborative team of innovative developers building transformative software.
+- Actively contributing to open-source projects with the goal of empowering the global developer community.
 
 ---
 
-## ⚡ Fun Facts
-
-- **Code Optimization Enthusiast:** I find joy in improving code performance and efficiency.
-- **Hackathon Veteran:** Thriving in high-pressure environments with quick problem-solving.
-- **Gaming Geek:** Exploring game engines and AI in gaming is one of my hobbies.
-- **Tech Speaker:** I enjoy sharing knowledge through tech talks and blog posts on emerging trends.
-
----
-
-## 🏆 Achievements & Contributions
-
-- **Featured Projects:** [Link to notable projects](https://github.com/tsomielvis?tab=repositories) *(Add links to your standout projects)*
-- **Open-Source Contributions:** Contributed to [specific open-source projects](https://github.com/tsomielvis?tab=contributions) *(Highlight any notable contributions)*
-- **Certifications:** [AWS Certified Solutions Architect](https://www.example.com) *(Add any relevant certifications)*
-- **Publications:** [Articles & Papers](https://medium.com/@yourprofile) *(Link to any published articles or papers)*
+### 👨‍💻 **Tech Stack:**
+- **Languages:** Python, JavaScript, TypeScript, Go, SQL, PHP
+- **Frameworks:** Django, Flask, FastAPI, React, Node.js, Express.js, Next.js, Spring Boot
+- **DevOps & Cloud:** Docker, Kubernetes, Terraform, Jenkins, AWS, Azure, GCP
+- **Databases:** PostgreSQL, MySQL, MongoDB, Redis, Firebase, Elasticsearch
+- **Testing & Debugging:** PyTest, Selenium, JUnit, Mocha, Cypress, Postman
 
 ---
 
-Let's create something **extraordinary** together! 🚀
+### 🌟 **Let's Connect:**
+I'm open to collaborating on **open-source** projects, **AI/ML innovations**, **Cloud automation**, and **full-stack development**. Let’s build something amazing together!  
+
+Reach out via [Email](mailto:tsomielvis@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/elvis-muthomi-056542313?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app).
+
+---
+
+### 💼 **Portfolio & Projects:**  
+Feel free to explore my [GitHub Projects](https://github.com/tsomielvis?tab=repositories) to see my latest work, including cutting-edge tools, libraries, and applications I've developed.
+
+---
+
+✨ **Let's create the future of tech together!**
