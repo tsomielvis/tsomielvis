@@ -1,66 +1,139 @@
-# Elvis Muthomi - aka @tsomielvis 👨‍💻
+# 👨‍💻 Hey there, I'm Elvis Muthomi - aka @tsomielvis
 
-**Software Engineer | Full-Stack Developer | Cloud Enthusiast**  
-Specializing in **Python**, **JavaScript**, **TypeScript**, and **Cloud Technologies**  
-Email: [tsomielvis@gmail.com](mailto:tsomielvis@gmail.com) | [elvis.muthomi@student.moringaschool.com](mailto:elvis.muthomi@student.moringaschool.com)
+### 💻 **Software Engineer | Full-Stack Developer | DevOps Enthusiast | Cloud Practitioner**
 
----
-
-📍 **Location:** Thika, Kenya  
-📱 **Phone:** +254713048056  
-🌐 **Website:** [https://github.com/tsomielvis](https://github.com/tsomielvis)  
-🐦 **Twitter:** [@tsomielvis](https://twitter.com/tsomielvis)  
-💼 **LinkedIn:** [Elvis Muthomi, Student at Moringa School](https://www.linkedin.com/in/elvis-muthomi-056542313?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+**Email:** [tsomielvis@gmail.com](mailto:tsomielvis@gmail.com)  
+**Alternate Email:** [elvis.muthomi@student.moringaschool.com](mailto:elvis.muthomi@student.moringaschool.com)  
+**Phone:** +254713048056  
+**Location:** Thika, Kenya  
+**Website:** [https://github.com/tsomielvis](https://github.com/tsomielvis)  
+**LinkedIn:** [Elvis Muthomi, Student at Moringa School](https://www.linkedin.com/in/elvis-muthomi-056542313?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+**Twitter:** [@tsomielvis](https://twitter.com/tsomielvis)
 
 ---
 
-### 🚀 **About Me:**
-I'm a passionate **Software Engineer** with a focus on delivering scalable and high-performance applications. Proficient in **Full-Stack Development** and **DevOps** practices, I have a keen interest in **AI/ML**, **Cloud Computing**, and **Systems Automation**. My goal is to build impactful solutions that drive efficiency and innovation.
+### 🚀 **About Me**
 
-### 💼 **Professional Highlights:**
-- **Independent Contractor** - Delivering custom software solutions for clients globally.
-- **Experienced with Frameworks:** Django, Flask, React, Node.js, Express.js, and FastAPI.
-- **Cloud Expertise:** AWS (Certified Solutions Architect), Azure, and GCP.
-- **Specializations:** Distributed systems, Cloud-Native applications, and Serverless architectures.
+I’m a **Software Engineer** specializing in **Full-Stack Development**, **Cloud Technologies**, and **DevOps**. I have a deep passion for **AI/ML**, **Cloud Automation**, and building scalable systems with cutting-edge technologies. My work spans across designing end-to-end solutions from backend architecture to frontend interfaces, ensuring robust, efficient, and secure deployments in cloud environments.
 
 ---
 
-### 🔥 **GitHub Achievements:**
-- **Achievement:** Pull Shark x4 (Consistently contributing top-tier code across repositories)
-- **Achievement:** Pair Extraordinaire x3 (Outstanding teamwork and collaboration)
-- **Achievement:** YOLO (Taking bold initiatives to explore cutting-edge technology)
-- **Achievement:** Quickdraw (Swift problem solving and quick bug fixes)
-- **Achievement:** Public Sponsor (Supporting open-source development)
-- **Achievement:** Starstruck (Earning stars on several noteworthy projects)
-- **Achievement:** Arctic Code Vault Contributor (Preserving code for future generations)
+### 🔧 **Tech Stack**
+
+**Languages**:  
+- Python, JavaScript, TypeScript, Go, Java, C++, SQL, PHP, Bash
+
+**Frontend**:  
+- React, Next.js, Angular, HTML5, CSS3, Bootstrap, Tailwind CSS, SASS, jQuery
+
+**Backend**:  
+- Django, Flask, FastAPI, Node.js, Express.js, Spring Boot, Ruby on Rails
+
+**Databases**:  
+- PostgreSQL, MySQL, MongoDB, Redis, Firebase, DynamoDB, Cassandra, Elasticsearch
+
+**DevOps & Cloud**:  
+- Docker, Kubernetes, Terraform, Jenkins, AWS (Lambda, EC2, S3, RDS, CloudFormation),  
+  Azure (VMs, Blob Storage, AKS, DevOps), GCP (Cloud Run, Compute Engine, BigQuery),  
+  Firebase (Firestore, Cloud Functions), Ansible, CircleCI, GitHub Actions, Travis CI
+
+**Tools & Platforms**:  
+- Git, GitHub, Bitbucket, GitLab, Heroku, Netlify, Vercel, DigitalOcean,  
+  Visual Studio Code, IntelliJ IDEA, PyCharm, JIRA, Trello, Postman, Swagger
+
+**Testing**:  
+- PyTest, Selenium, JUnit, TestNG, Postman, Mocha, Jest, Chai, Cypress, Enzyme, Robot Framework
+
+**Other Skills**:  
+- REST APIs, GraphQL, WebSockets, Microservices, Serverless Architecture, Distributed Systems,  
+  CI/CD, Infrastructure as Code, Agile Methodologies, Containerization, Cloud-Native Applications,  
+  Automation, Monitoring & Logging, Load Balancing, Security Best Practices
 
 ---
 
-### 🏆 **Developer Program Member & Organizations:**
-- Member of **@beyode**, a collaborative team of innovative developers building transformative software.
-- Actively contributing to open-source projects with the goal of empowering the global developer community.
+### 🌱 **Currently Learning**
+
+- **Kubernetes Advanced Practices** for scalable microservices architecture
+- **Serverless Architectures** on AWS & GCP to deploy fully managed applications
+- **Machine Learning** (NLP, Computer Vision) for AI-based projects
+- **Blockchain Development** for decentralized applications
 
 ---
 
-### 👨‍💻 **Tech Stack:**
-- **Languages:** Python, JavaScript, TypeScript, Go, SQL, PHP
-- **Frameworks:** Django, Flask, FastAPI, React, Node.js, Express.js, Next.js, Spring Boot
-- **DevOps & Cloud:** Docker, Kubernetes, Terraform, Jenkins, AWS, Azure, GCP
-- **Databases:** PostgreSQL, MySQL, MongoDB, Redis, Firebase, Elasticsearch
-- **Testing & Debugging:** PyTest, Selenium, JUnit, Mocha, Cypress, Postman
+### 💼 **Professional Experience**
+
+- **Independent Contractor:** Developing custom software solutions for global clients, focusing on high availability, scalability, and security.
+- **Open-Source Contributor:** Actively contributing to multiple open-source projects that help build a more connected and innovative developer community.
+- **Cloud Solutions Architect:** Designing and implementing cloud-native applications with AWS, Azure, and GCP, using best practices in DevOps and security.
+- **Technical Mentor:** Supporting and mentoring students at **Moringa School** in building real-world applications and understanding key software engineering concepts.
 
 ---
 
-### 🌟 **Let's Connect:**
-I'm open to collaborating on **open-source** projects, **AI/ML innovations**, **Cloud automation**, and **full-stack development**. Let’s build something amazing together!  
+### 🏆 **GitHub Achievements**
 
-Reach out via [Email](mailto:tsomielvis@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/elvis-muthomi-056542313?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app).
+- **Achievement:** Pull Shark x4 (Delivering top-quality pull requests across repositories)  
+- **Achievement:** Pair Extraordinaire x3 (Collaborating effectively in pair programming)  
+- **Achievement:** YOLO (Taking bold, cutting-edge initiatives in projects)  
+- **Achievement:** Quickdraw (Fast response to critical issues and bug fixes)  
+- **Achievement:** Public Sponsor (Supporting and sponsoring open-source developers)  
+- **Achievement:** Starstruck (Contributions earning multiple stars)  
+- **Achievement:** Arctic Code Vault Contributor (Preserving code for future generations)  
 
 ---
 
-### 💼 **Portfolio & Projects:**  
-Feel free to explore my [GitHub Projects](https://github.com/tsomielvis?tab=repositories) to see my latest work, including cutting-edge tools, libraries, and applications I've developed.
+### 🌟 **Highlights & Recognitions**
+
+- **Developer Program Member** - Active in contributing to developer programs, and helping grow communities.
+- **Top Contributor** in the **Arctic Code Vault** with multiple repositories archived for future generations.
 
 ---
 
-✨ **Let's create the future of tech together!**
+### 👨‍💻 **Projects & Portfolio**
+
+- **[Personal Budget Tracker](https://github.com/tsomielvis/personal-budget-tracker):**  
+  A Python-based CLI application for managing personal finances. Features include user authentication, budgeting, and transaction reports.
+  
+- **[React Quiz Builder](https://github.com/tsomielvis/react-quiz-builder):**  
+  A dynamic React app where users can create, answer, and review quiz questions, complete with scoring feedback.
+
+- **[Premier League Management System](https://github.com/tsomielvis/premier-league-manager):**  
+  A robust Python CLI app using SQLAlchemy for managing the 2024-2025 Premier League season, tracking teams, players, and match results.
+
+- **[Concert Management System](https://github.com/tsomielvis/concert-manager):**  
+  A comprehensive solution for concert management using raw SQL queries, with Band, Venue, and Concert relations.
+
+---
+
+### 🤝 **Looking to Collaborate On**
+
+I’m always open to collaborating on innovative projects that:
+- Solve complex real-world problems using **AI/ML**, **Data Science**, and **Automation**.
+- Involve **Cloud-Native Development**, **Serverless Architectures**, and **Microservices**.
+- Focus on building **Open-Source Tools**, **Libraries**, and **Frameworks**.
+- Enhance **CI/CD pipelines**, **Infrastructure as Code**, and **DevOps Automation**.
+- Explore emerging technologies like **Blockchain**, **IoT**, and **Quantum Computing**.
+
+---
+
+### ⚡ **Fun Facts**
+
+- I'm obsessed with **optimizing code** for maximum performance.
+- I’ve participated in multiple **Hackathons**, winning awards for innovative solutions.
+- I actively write **technical blogs** to share insights on **software development** and **cloud technologies**.
+- In my free time, I explore **game development** using **Unity** and **Unreal Engine**.
+
+---
+
+### 💬 **Let's Connect**
+
+Feel free to reach out! I’m happy to chat about:
+- **Software Engineering Best Practices**
+- **Tech Innovations**
+- **Career Opportunities**
+- **Open-Source Collaboration**
+
+Reach me via [Email](mailto:tsomielvis@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/elvis-muthomi-056542313?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app).
+
+---
+
+Let’s build something **awesome** together! 🚀
