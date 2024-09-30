@@ -34,9 +34,8 @@
 |:---:|:---:|:---:|
 | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=ffffff) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=ffffff) | ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=ffffff) |
 | ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat&logo=adobe-xd&logoColor=ffffff) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=ffffff) | ![Trello](https://img.shields.io/badge/Trello-0079BF?style=flat&logo=trello&logoColor=ffffff) |
+| ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=ffffff) | | |
 | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=ffffff) | | |
-
----
 
 ---
 
