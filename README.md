@@ -84,7 +84,7 @@
 ![Puppet](https://img.shields.io/badge/Puppet-8B2E3D?style=for-the-badge&logo=puppet&logoColor=white)
 ![Nagios](https://img.shields.io/badge/Nagios-005C5C?style=for-the-badge&logo=nagios&logoColor=white)
 
-### ☁️ Cloud Platforms
+### ☁️ Cloud Platforms### ☁️ Cloud Platforms
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=azure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -92,6 +92,8 @@
 ![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-4B0C1F?style=for-the-badge&logo=ibm&logoColor=white)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-007BFF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+
 
 ### 🎨 Design Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
