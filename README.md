@@ -55,7 +55,8 @@
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52B9?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java (Android)](https://img.shields.io/badge/Java%20(Android)-007396?style=for-the-badge&logo=java&logoColor=white)
-![Objective-C](https://img.shields.io/badge/Objective-C-#000?style=for-the-badge&logo=objective-c&logoColor=white)
+![Objective-C](https://img.shields.io/badge/Objective--C-000000?style=for-the-badge&logo=apple&logoColor=white)
+
 
 ### 🎮 Game Development
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
